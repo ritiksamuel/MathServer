@@ -149,7 +149,8 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-11-15 193511.png>)
+
+![Screenshot 2023-11-15 193511](https://github.com/ritiksamuel/MathServer/assets/130056055/1ba37558-2de5-427c-b922-5edce4ee1fce)
 
 
 
